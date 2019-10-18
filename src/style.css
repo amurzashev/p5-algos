@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+nav {
+  height: 60px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+}
+button {
+  height: 36px;
+  border: 0;
+  padding: 0 20px;
+  background: cornflowerblue;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  text-transform: capitalize;
+  font-size: 0.8rem;
+  margin: 0 5px;
+}
